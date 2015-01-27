@@ -8,6 +8,7 @@
 + Obligado a preguntar.
 + Obligado a responder.
 + Repórtate con tu equipo.
++ test1
 	
 ### Herramientas de trabajo
 	1. Slack
