@@ -1,6 +1,5 @@
 ## Martes 27 de Enero
 ### Reglas:
-
 + Hola de parte de Zura y Eduardo
 + Cero sexismo.
 + ¿Weeeeey no sabes?
@@ -8,6 +7,7 @@
 + Obligado a preguntar.
 + Obligado a responder.
 + Repórtate con tu equipo.
++ pull request1
 	
 ### Herramientas de trabajo
 	1. Slack
@@ -16,17 +16,10 @@
 
 ### Evaluación diagnóstica
 	1.Taller sobre Github
-+ Conceptos fundamentales
-+ Clone
-+ Pull
-+ Push
-+ Branching
-+ Merge
-
 	2. Taller sobre Android
 	3. Taller sobre iOS
 	4. Taller de Rails
-
+	
 
 ## Miércoles 28 de Enero
 + Let the hacking begin
