@@ -25,6 +25,7 @@
 
 ## Jueves 29 de Enero
 + More hacking
++ Polymer in Centraal
 
 ## Viernes 30 de Enero
 + And more hacking
