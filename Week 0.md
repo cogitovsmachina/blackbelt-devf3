@@ -1,6 +1,6 @@
 ## Martes 27 de Enero
 ### Reglas:
-+ 
++ Hola de parte de Zura y Eduardo
 + Cero sexismo.
 + ¿Weeeeey no sabes?
 + Give before you get.
