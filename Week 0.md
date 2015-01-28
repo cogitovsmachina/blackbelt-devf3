@@ -35,6 +35,8 @@
 + Terminar de revisar Android SDK
 
 ### 3pm - 4pm
++ Leer sobre Lua:
+http://www.lua.org/about.html
 + Revisar _dos veces_ Learn Lua in 15 minutes:
 http://learnxinyminutes.com/docs/lua/
 + Instalar Corona SDK y hacer un hola mundo
@@ -48,6 +50,7 @@ http://learnxinyminutes.com/docs/lua/
 
 ### 9:30pm - 10pm
 + Wrapping up y comentarios finales
+
 
 ## Jueves 29 de Enero
 + More hacking TBD
