@@ -1,6 +1,3 @@
-aaaa
-
-
 ## Martes 27 de Enero
 ### Reglas:
 
@@ -29,14 +26,33 @@ aaaa
 
 	2. Taller sobre Android
 	3. Taller sobre iOS
-	4. Taller de Rails
+	4. Taller de NodeJS
 
 
 ## Miércoles 28 de Enero
-+ Let the hacking begin
+
+### 2:15pm - 3pm
++ Terminar de revisar Android SDK
+
+### 3pm - 4pm
++ Revisar _dos veces_ Learn Lua in 15 minutes:
+http://learnxinyminutes.com/docs/lua/
++ Instalar Corona SDK y hacer un hola mundo
+
+### 4pm - 5pm
++ ¡Comidaaaa! 
+### 5pm - 6pm
++ Análisis de ingeniería de Flappy Bird.
+### 6pm - 9:30pm 
++ Hacking time
+
+### 9:30pm - 10pm
++ Wrapping up y comentarios finales
 
 ## Jueves 29 de Enero
-+ More hacking
++ More hacking TBD
+
+### 7pm - 10pm
 + Polymer in Centraal
 
 ## Viernes 30 de Enero
