@@ -57,7 +57,11 @@ http://learnxinyminutes.com/docs/lua/
 
 
 ## Jueves 29 de Enero
-+ More hacking TBD
+### 2:15pm - 6:30pm
++ Continuamos con el clon de Flappy Bird
+
+### 6:30pm - 7:00pm 
++ Traslado a Centraal
 
 ### 7pm - 10pm
 + Polymer in Centraal
